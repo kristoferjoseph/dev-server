@@ -1,0 +1,32 @@
+{
+  "name": "dev-server",
+  "version": "0.0.0",
+  "description": "Live reload server for rapid local development of browser pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kristoferjoseph/dev-server.git"
+  },
+  "keywords": [
+    "livereload",
+    "live",
+    "reload",
+    "server",
+    "development"
+  ],
+  "author": "@dam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/dev-server/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/dev-server",
+  "dependencies": {
+    "instant": "^1.4.1",
+    "connect": "^2.14.3",
+    "colors": "^0.6.2"
+  }
+}

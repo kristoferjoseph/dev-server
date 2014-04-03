@@ -28,5 +28,8 @@
     "instant": "^1.4.1",
     "connect": "^2.14.3",
     "colors": "^0.6.2"
+  },
+  "devDependencies": {
+    "instant": "^1.4.1"
   }
 }
